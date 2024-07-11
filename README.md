@@ -40,11 +40,12 @@ df[numerical_features] = scaler.fit_transform(df[numerical_features])
 
 
 ### Deliverables
-Code: Submit the complete code used for data preparation, EDA, feature engineering, model training, and evaluation in a Jupyter Notebook format.
-Report: Submit a detailed report documenting your approach, findings, and conclusions, including visualizations and a clear explanation of your steps.
-Presentation: Prepare a brief presentation summarizing your project and key findings.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+**Code:** Submit the complete code used for data preparation, EDA, feature engineering, model training, and evaluation in a Jupyter Notebook format.
+
+**Report:** Submit a detailed report documenting your approach, findings, and conclusions, including visualizations and a clear explanation of your steps.
+
+**Presentation:** Prepare a brief presentation summarizing your project and key findings.
+
 
 ###Acknowledgments
 Dataset from Kaggle
