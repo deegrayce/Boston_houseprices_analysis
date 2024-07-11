@@ -47,8 +47,10 @@ df[numerical_features] = scaler.fit_transform(df[numerical_features])
 **Presentation:** Prepare a brief presentation summarizing your project and key findings.
 
 
-###Acknowledgments
+### Acknowledgments
+
 Dataset from Kaggle
+
 Inspired by the Data Science - Tinyuka Session Capstone Project
 
 
